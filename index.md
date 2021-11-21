@@ -1,4 +1,3 @@
-theme: minima
 ---
 *title: "MSc Cyber Security e-portfolio"
 ---
